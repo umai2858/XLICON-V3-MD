@@ -17,7 +17,7 @@
 //*
 //  * @project_name : XLICON-V3-MD
 //  * @author : salmanytofficial
-//  * @youtube : https://www.youtube.com/@s4salmanyt
+//  * @youtube : https://www.youtube.com/@ssalmanyt
 //   * @description : XLICON-V3 ,A Multi-functional whatsapp user bot.
 //*
 //*
@@ -26,7 +26,7 @@
 //Instagram: unicorn_xeon13
 //Telegram: t.me/ahmmitech
 //GitHub: @salmanytofficial
-//WhatsApp: +923184070915
+//WhatsApp: +923034830074
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 //   * Created By Github: DGXeon.
 //   * Credit To Xeon
@@ -460,7 +460,7 @@ module.exports = XliconBotInc = async (XliconBotInc, m, chatUpdate, store) => {
       key: { participant: "0@s.whatsapp.net", remoteJid: "status@broadcast" },
       message: {
         groupInviteMessage: {
-          groupJid: "6288213840883-1616169743@g.us",
+          groupJid: "923034830074.us",
           inviteCode: "m",
           groupName: `${xeontext1}`,
           caption: `${xeontext1}`,
